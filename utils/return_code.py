@@ -1,0 +1,23 @@
+# 返回码
+SUCCESS = 0
+
+# 用户提交数据校验失败（字段错误）
+FAILED_ERROR = 1000
+
+# 用户提交数据校验失败
+VALIDATE_ERROR = 1001
+
+# 认证失败
+AUTH_FAILED = 2000
+
+# 认证过期
+AUTH_OVERDUE = 2001
+
+# 无权访问
+PERMISSION_DENIED = 3000
+
+# 访问限流
+TOO_MANY_REQUESTS = 4000
+
+# 更新失败
+UPDATE_ERROR = 5000
