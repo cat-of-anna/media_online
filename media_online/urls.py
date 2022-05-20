@@ -6,6 +6,7 @@ from django.urls import path, include
 # 最后一次测试
 # 最后一次测试，啊啊啊啊
 # 最后一次测试，kule
+# 最后一次测试，kule
 
 
 urlpatterns = [
