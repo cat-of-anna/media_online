@@ -4,6 +4,8 @@ from django.urls import path, include
 # 测试3好
 # 测试4好
 # 最后一次测试
+# 最后一次测试，啊啊啊啊
+
 
 urlpatterns = [
     path("api/base/", include('apps.base.urls')),
