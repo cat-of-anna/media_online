@@ -4,7 +4,7 @@ DATABASES = {
         'NAME': 'media_online',
         'USER': 'root',
         'PASSWORD': '123456',
-        'HOST': '8.130.102.77.',    # 远程主机
+        'HOST': '8.130.102.77',    # 远程主机
         'PORT': '3306',
     }
 }
